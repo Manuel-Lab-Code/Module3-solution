@@ -85,10 +85,20 @@ li{
 	padding: 20px;
 }
 
-.item-name{
+#item-name{
 	text-align: center;
 	font-size: 20px;
 	font-weight: bold;
+}
+.bef {
+	color: crimson;	
+}
+.chi {
+	color: pink;
+}
+
+span {
+	color: #f2dea9;
 }
 
 #top{
